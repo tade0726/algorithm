@@ -4,7 +4,6 @@ Date   : 2018-12-10 20:37
 Email  : zp913913@gmail.com
 """
 import random
-import inspect
 
 # 二分法查找
 
