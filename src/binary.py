@@ -2,6 +2,11 @@
 Author : Ted
 Date   : 2018-12-10 20:37
 Email  : zp913913@gmail.com
+
+
+refs:
+- https://github.com/taizilongxu/interview_python#10-%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE
+
 """
 import random
 
